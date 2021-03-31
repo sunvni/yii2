@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9cd87f007dcd9d8cf647fb718b0384f8",
+    "content-hash": "cf8d4c1dba209d9fcd8d720c83b91c67",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -849,6 +849,47 @@
                 }
             ],
             "time": "2021-01-07T16:49:33+00:00"
+        },
+        {
+            "name": "umbalaconmeogia/yii2-batsg",
+            "version": "v0.6.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/umbalaconmeogia/yii2-batsg.git",
+                "reference": "83bdeae7c0b8822f3bf34874cb99f7b0da4816b2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/umbalaconmeogia/yii2-batsg/zipball/83bdeae7c0b8822f3bf34874cb99f7b0da4816b2",
+                "reference": "83bdeae7c0b8822f3bf34874cb99f7b0da4816b2",
+                "shasum": ""
+            },
+            "type": "yii2-extension",
+            "autoload": {
+                "psr-4": {
+                    "batsg\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tran Trung Thanh",
+                    "role": "Developer"
+                }
+            ],
+            "description": "My best practice and my libraries when using yii2 framework.",
+            "keywords": [
+                "utility",
+                "yii2"
+            ],
+            "support": {
+                "issues": "https://github.com/umbalaconmeogia/yii2-batsg/issues",
+                "source": "https://github.com/umbalaconmeogia/yii2-batsg/tree/v0.6.6"
+            },
+            "time": "2020-11-10T13:28:28+00:00"
         },
         {
             "name": "yiisoft/yii2",
